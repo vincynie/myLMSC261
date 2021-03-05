@@ -1,5 +1,4 @@
 # myLMSC261
 
- # Mice Assignment
-I first thought about how to define the location of those three words and then thought about the calculation part. I didn't really have any problems during the coding part.
-However, I couldn't make it run in terminal. It kept showing me this "no such file or directory" error message. After tried a thousand times, I finally realized I probably should save the .py file first and then write the codes. What I did was I wrote the codes first and then saved it. That's probably where went wrong. Now I know that the order of doing things is extremely important.
+ # Pyramid Assignment
+ For this assignment, I thought about using the for loop as my first step. Since I need to consider the location of the hash both vertically and horizontally, rows and columns, I decided to use a nest loop that contains two variables: i and j. Then, I defined the variable stacks as the one controlling how many rows are there. The variable i with the range function is the one that sets the range of the rows, which the user can choose from 1 to 8. The variable j defines the columns. Since it is a right triangle shape, I need to reverse the range so that it starts from 1 not 8. The if statement within the for loop basically limits it from printing a square and makes it follow the stacks the user sets. For the last step, I added the first if statement to set the limit of the stacks variable. 
