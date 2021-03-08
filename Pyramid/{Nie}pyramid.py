@@ -3,7 +3,7 @@ if stacks >= 9:
     print("stacks out of range, please exit the program")
 else:
     for i in range(0, stacks):
-        for j in range(stacks, 0, -1):
+        for j in range(stacks, -1, -1):
             if j>i:
                 print("", end = '')
             else:
