@@ -1,0 +1,4 @@
+# myLMSC261
+
+ # Pyo Assignment
+For this assignment, I followed the steps to download and install Pyo. After finishing the terminal part, I tried to run the melodies.py and the dulcimer.aiff. I thought I needed to create a new python file and then copy the codes and run it. However, it was clearly not the right way to test if my Pyo works. Then, I realized that I was supposed to open these python files from the LMSC261 folder rather than copying the codes. I also made a mistake of not fetching the folder from GitHub desktop as often as I could. Thus, I opened the files and tried to run it from the right place. Another problem occurred at this moment: there was an error related to the location of the dulcimer file. Thus, I figured out where it was located and changed the snd codes and it finally worked. 
