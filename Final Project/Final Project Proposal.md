@@ -28,19 +28,19 @@
 Research:
 I'm going to do more research on cases people have done and tried to make my idea more complete and grounded. I would add more details in terms of exactly what type of paintings I wanna create and hopefully decide what type of random elements I wanna add.
 
-Week 2 & 3 (April 5th,  April 12nd)
+ ## Week 2 & 3 (April 5th,  April 12nd)
 Coding:
 After adding more details to my original idea, I would start coding.
 
-Week 4 (April 19th)
+ ## Week 4 (April 19th)
 Coding & Debugging:
 I think there will definitely be problems coming out during the process, so this week is for those problems.
 
-Week 5 (April 26)
+ ## Week 5 (April 26)
 Finishing up & Getting some user feedback:
 After debugging, everything should be in place exactly the way I want. I think I want some user feedback, so I would show my work to my best friend Casey and see what she thinks about it and whether it's effective.
 
-Week 6 (May 3rd)
+ ## Week 6 (May 3rd)
 Presenting:
 I don't know if we're going to present our final project on May 3rd. If not, I would change my timeline accordingly.
 
