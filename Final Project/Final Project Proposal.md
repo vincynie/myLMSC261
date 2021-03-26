@@ -24,7 +24,7 @@
 5. Timeline
  ## Starting from next week, there're five weeks time in total till the end of this semester, so I'm going to make this timeline in terms of weeks.
 
-Week 1 & 2 (March 29th, April 5th)
+ ## Week 1 & 2 (March 29th, April 5th)
 Research:
 I'm going to do more research on cases people have done and tried to make my idea more complete and grounded. I would add more details in terms of exactly what type of paintings I wanna create and hopefully decide what type of random elements I wanna add.
 
@@ -45,4 +45,4 @@ Presenting:
 I don't know if we're going to present our final project on May 3rd. If not, I would change my timeline accordingly.
 
 6. How do you think you should be assessed?
- ## I think the final project grading rubric works for me. If anything specific to my project, I would say it's my audience's feedback. I would hope that my audience is satisfied with what I've done and that the paintings are truly helpful. 
+ ## I think the final project grading rubric works for me. If anything specific to my project, I would say it's my audience's feedback. I would hope that my audience is satisfied with what I've done and that the paintings are truly helpful.
