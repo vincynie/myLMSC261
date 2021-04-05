@@ -11,6 +11,4 @@
  ## I contributed to the group by first providing ideas about the band name and the style of the website. Then, I did my paragraph and added a hyper link as an asset to the website.
 
  4. Short assessments of your group members and the contributions they made
- ## Myron created the style and format of the website. He also added the audio as an asset.
- David created a paragraph for himself and a picture.
- We all helped each other in the process and decided the style of the website together.
+ ## Myron created the style and format of the website. He also added the audio as an asset. David created a paragraph for himself and a picture. We all helped each other in the process and decided the style of the website together.
